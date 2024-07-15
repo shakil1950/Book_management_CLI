@@ -1,0 +1,45 @@
+Lent BY:Shakil ahmed
+State:Lent
+Title:Python with django
+ISBN:3
+Author's:['Shakil', 'Hamid']
+price:204.00
+Pub_Year:20244
+Quantity:0
+-----------------------------
+Lent BY:Shakil
+State:Lent
+Title:Machine learning
+ISBN:4
+Author's:['Ashik', 'Afsana']
+price:204.00
+Pub_Year:2022
+Quantity:3
+-----------------------------
+Lent BY:Shakil
+State:Lent
+Title:Artificial intelligent
+ISBN:9
+Author's:['Julietr']
+price:255.00
+Pub_Year:2021
+Quantity:2
+-----------------------------
+Lent BY:Shakil
+State:Lent
+Title:Artificial intelligent
+ISBN:9
+Author's:['Julietr']
+price:255.00
+Pub_Year:2021
+Quantity:0
+-----------------------------
+Lent BY:Shakil
+State:Lent
+Title:Artificial intelligent
+ISBN:9
+Author's:['Julietr']
+price:255.00
+Pub_Year:2021
+Quantity:0
+-----------------------------

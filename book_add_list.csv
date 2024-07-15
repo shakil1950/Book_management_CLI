@@ -1,0 +1,40 @@
+State:available
+Title:Php with laravel 
+ISBN:2
+Author's:['Shakil Ahmed']
+price:258.00
+Pub_Year:2024
+Quantity:4
+-----------------------------
+State:available
+Title:Php with laravel 
+ISBN:2
+Author's:['Shakil Ahmed']
+price:258.00
+Pub_Year:2024
+Quantity:4
+-----------------------------
+State:available
+Title:Python with django
+ISBN:3
+Author's:['Shakil', 'Hamid']
+price:204.00
+Pub_Year:20244
+Quantity:2
+-----------------------------
+State:available
+Title:Machine learning
+ISBN:4
+Author's:['Ashik', 'Afsana']
+price:204.00
+Pub_Year:2022
+Quantity:8
+-----------------------------
+State:available
+Title:Artificial intelligent
+ISBN:9
+Author's:['Julietr']
+price:255.00
+Pub_Year:2021
+Quantity:3
+-----------------------------
